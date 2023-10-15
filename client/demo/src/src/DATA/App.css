@@ -1,0 +1,33 @@
+.myLogin{
+  height: 350px;
+  width: 400px;
+  margin: 300px;
+  border: 1px solid black
+}
+
+.errorMsg{
+  color: red;
+}
+
+.smallDiv{
+  
+  background-color: aquamarine;
+}
+
+.Border{
+  border: 1px solid black;
+  height: 90px;
+  width: 200px;
+  margin-left: 300px;
+}
+
+.logoutDiv{
+  background-color: skyblue;
+  margin: 300px;
+}
+.RegisterTbl{
+  height: 500px;
+  width: 450px;
+  margin: 300px;
+  border: 1px solid black
+}
